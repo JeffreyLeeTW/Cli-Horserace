@@ -1,3 +1,5 @@
+[繁體中文](README_ZH.md)
+
 # Poker Horse Racing Game CLI Version
 
 A command-line interface poker horse racing game with English/Chinese bilingual support, English as default language.
